@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/S-Alif/loopstudios-landing-page-main)
+- Live Site URL: [Add live site URL here](https://frm-challenges.netlify.app/challenges/loopstudios-landing-page-main/index.html)
 
 ### Built with
 
