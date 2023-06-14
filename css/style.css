@@ -28,6 +28,7 @@ body{
     padding: 0;
     overflow-x: hidden;
     background: var(--white);
+    position: relative;
 }
 *{
     margin: 0;
@@ -377,7 +378,7 @@ footer .social-media{
 }
 
 .copyright-text{
-    color: var(--white);
+    color: var(--dark-gray);
     padding-top: 20px;
 }
 
@@ -412,7 +413,7 @@ footer .social-media{
         transition: 0.4s;
     }
     .navbar .nav-item-wrapper{
-        position: absolute;
+        position: fixed;
         top: 0;
         right: -100%;
         width: 100%;
